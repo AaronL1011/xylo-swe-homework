@@ -1,0 +1,11 @@
+{
+  "name": "@xylo/csv-parser",
+  "description": "A CSV Parser created for a software engineering interview",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
